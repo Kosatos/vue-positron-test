@@ -1,24 +1,14 @@
 # vue-positron-test
 
-## Project setup
-```
-npm install
-```
+- Верстка по бэм без использования фреймворков(bootstrap, tailwind)✅
+- Выполнить всё на Vue через Store (vuex)✅
+- вывод товаров и их удаление✅
+- реализовать кнопочки увеличения/уменьшения кол-ва✅
+- динамические подсчет стоимости заказа, количества товаров, наличие установки, в зависимости от состояния чекбокса✅
+- в шапке выводить кол-во товаров и стоимость заказа✅
+- реализовать слайдер с заказами✅
+- при нажатии “оформить заказ” реализовать отправку на сервер (в том виде, в каком считаете нужным)✅
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Заказ отправляетcя на виртуальную [базу данных](https://vue-positron-test-default-rtdb.firebaseio.com/).
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Приложение находится по ссылке [Vue Positron Test](https://vue-positron-test.web.app/)
